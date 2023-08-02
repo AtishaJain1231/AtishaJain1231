@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Atisha Jain</h1>
 <h3 align="center">I am self-taught passionate automation tester from India</h3>
 
+[]!(https://github.com/AtishaJain1231/AtishaJain1231/blob/main/coding-girl-animation-fe7t4gejurmtof8v.webp)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=atishajain1231&label=Profile%20views&color=0e75b6&style=flat" alt="atishajain1231" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=atishajain1231" alt="atishajain1231" /></a> </p>
